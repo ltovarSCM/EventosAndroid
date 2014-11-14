@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.eventos.MenuActivity" >
+    <item android:id="@+id/itevento1" android:title="Evento" android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/itnuevoevento" android:showAsAction="never" android:title="Nuevo"/>
+             <item android:id="@+id/itbuscarevento" android:showAsAction="never" 
+            android:title="Buscar" />
+        </menu>
+      </item>
+    
+     <item android:id="@+id/itgaleria" android:title="Galeria" android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/itvergaleria" android:showAsAction="never" android:title="Ver"/>
+             <item android:id="@+id/itactualizargaleria" android:showAsAction="never" android:title="Actualizar"/>
+         </menu>
+    </item>
+     <item android:id="@+id/itbd" android:title="Base Datos" android:showAsAction="always">
+           </item>
+</menu>

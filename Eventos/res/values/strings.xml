@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eventos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="descimg">Universidad del Magdalena</string>
+    <string name="textologuin">USUARIO</string>
+    <string name="textopassword">PASSWORD</string>
+    <string name="botonaceptar">ACEPTAR</string>
+    <string name="botoncancelar">CANCELAR</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="imagenlogo">Logo Eventos</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_perfil">Perfil de Usuario</string>
+    <string name="tituloPerfil">PERFIL</string>
+    <string name="textonombreUsuario">Nombre</string>
+    <string name="textocorreoUsuario">Correo</string>
+    <string name="textotelefonoUsuario">Telefono</string>
+    <string name="textopasswordUsuario">Contraseña</string>
+    <string name="botonAgregarUsuario">ACEPTAR</string>
+    <string name="botonCancelarUsuario">CANCELAR</string>
+    <string name="title_activity_cliente">Cliente</string>
+    <string name="tituloCliente">CLIENTE</string>
+    <string name="textonombreCliente">Nombre</string>
+    <string name="textodocCliente">C.C.</string>
+    <string name="textoTelefonoCliente">Telefono</string>
+    <string name="textoCorreoCliente">Correo</string>
+    <string name="textoEmpresaCliente">Empresa</string>
+    <string name="botonAgregarCliente">ACEPTAR</string>
+    <string name="botonCancelarCliente">CANCELAR</string>
+    <string name="title_activity_evento">EventoActivity</string>
+    <string name="tituloEvento">EVENTOS</string>
+    <string name="textoCodigoEvento">Nombre</string>
+    <string name="textoNombreEvento">C.C.</string>
+    <string name="textoFechaEvento">Telefono</string>
+    <string name="title_activity_salon">SalonActivity</string>
+    <string name="title_activity_eventos">EventosActivity</string>
+    <string name="title_activity_imagenes">ImagenesActivity</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    
+    <string-array name="array_sonido">
+        <item>Sonido 1</item>
+        <item>Sonido 2</item>
+        <item>Sonido 3</item>
+        <item>Sonido 4</item>
+        <item>Sonido 5</item>
+    </string-array>
+
+</resources>
